@@ -21,6 +21,3 @@ FROM mozilla/addons-server:2022.03.17
 
 # Tags: 2022.03.10
 FROM mozilla/addons-server:2022.03.10
-
-# Tags: 2022.03.03
-FROM mozilla/addons-server:2022.03.03
